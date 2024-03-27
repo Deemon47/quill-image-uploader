@@ -45,6 +45,6 @@
         "webpack-dev-server": "3.11.3"
     },
     "peerDependencies": {
-        "quill": "^2.0.0"
+        "quill": "^2.0.0-rc.4"
     }
 }
